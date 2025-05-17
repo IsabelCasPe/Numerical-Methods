@@ -123,11 +123,11 @@ O curso está organizado em 6 módulos, detalhados abaixo:
   - 6.3 Método de Euler  
   - 6.4 Métodos de Runge-Kutta  
   - 6.5 Métodos de Passo Múltiplo  
-  🔗 Códigos: [edos.py](codigos/edos.py), [Rk4_predador_presa.ipynb](codigos/Rk4_predador_presa.ipynb)
+  🔗 Códigos: [edos.py](codigos/edos.py), [Rk4_predador_presa.ipynb](Rk4_predador_presa.ipynb)
 
 ## 🚀 Como Usar
 - **Materiais:** Baixe os slides (PDFs) e o resumo em [notas/resumo_calculo_numerico.md](notas/resumo_calculo_numerico.md) para estudar offline.
-- **Códigos Python:** Explore a pasta [codigos/](codigos/) com implementações testadas, como o [Rk4_predador_presa.ipynb](codigos/Rk4_predador_presa.ipynb), que simula o modelo predador-presa com animação interativa.
+- **Códigos Python:** Explore a pasta [codigos/](codigos/) com implementações testadas, como o [Rk4_predador_presa.ipynb](Rk4_predador_presa.ipynb), que simula o modelo predador-presa com animação interativa.
 - **Exemplos Interativos:** Rode o notebook [exemplos/exemplos_calculo_numerico.ipynb](exemplos/exemplos_calculo_numerico.ipynb) em Jupyter Notebook ou Google Colab para testar os métodos.
 - **Requisitos:** Instale as bibliotecas Python:
   ```bash
