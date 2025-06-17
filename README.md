@@ -71,7 +71,7 @@ Os materiais incluem slides (PDFs), códigos Python na pasta [codigos/](codigos/
 ## 📚 Conteúdo do Curso
 O curso está organizado em 6 módulos, detalhados abaixo:
 
-- **1. Zeros de Funções**  
+- **1. Zeros de Funções**  🔗 [MNZerosDFuncao.pdf](MNZerosDFuncao.pdf)
   Encontre raízes de equações não-lineares com métodos robustos.  
   - 1.1 Introdução  
   - 1.2 Isolamento das Raízes  
@@ -80,7 +80,7 @@ O curso está organizado em 6 módulos, detalhados abaixo:
   - 1.5 Método de Newton-Raphson  
   🔗 Código: [zeros_de_funcoes.py](codigos/zeros_de_funcoes.py)
 
-- **2. Sistemas de Equações Lineares**  
+- **2. Sistemas de Equações Lineares**   🔗 [MNSisEqLineares.pdf](MNSisEqLineares.pdf)
   Resolva sistemas lineares com métodos iterativos e diretos.  
   - 2.1 Introdução  
   - 2.2 Métodos Iterativos  
@@ -92,13 +92,13 @@ O curso está organizado em 6 módulos, detalhados abaixo:
     - Inversão de Matrizes  
   🔗 Código: [sistemas_lineares.py](codigos/sistemas_lineares.py)
 
-- **3. Ajuste de Curvas – Método dos Quadrados Mínimos**  
+- **3. Ajuste de Curvas – Método dos Quadrados Mínimos**   🔗 [MNAjustedeCurvasMQM.pdf](MNAjustedeCurvasMQM.pdf)
   Ajuste modelos a dados experimentais com regressão linear e não-linear.  
   - 3.1 Caso Discreto (Linear e Não-linear)  
   - 3.2 Análise do Resultado (Coeficiente de Correlação)  
   🔗 Código: [ajuste_de_curvas.py](codigos/ajuste_de_curvas.py)
 
-- **4. Interpolação Polinomial**  
+- **4. Interpolação Polinomial**  🔗 [MNInterpolacaoP.pdf](MNInterpolacaoP.pdf)
   Construa polinômios para interpolar dados com precisão.  
   - 4.1 Existência e Unicidade do Polinômio Interpolador  
   - 4.2 Polinômio de Lagrange  
@@ -107,7 +107,7 @@ O curso está organizado em 6 módulos, detalhados abaixo:
   - 4.5 Interpolação Inversa  
   🔗 Código: [interpolacao_polinomial.py](codigos/interpolacao_polinomial.py)
 
-- **5. Integração Numérica**  
+- **5. Integração Numérica**  🔗[MNIntegracaoNum.pdf](MNIntegracaoNum.pdf)
   Calcule integrais com métodos eficientes e analise erros.  
   - 5.1 Introdução  
   - 5.2 Método de Newton-Cotes  
@@ -116,7 +116,7 @@ O curso está organizado em 6 módulos, detalhados abaixo:
   - Estudo do Erro  
   🔗 Código: [integracao_numerica.py](codigos/integracao_numerica.py)
 
-- **6. Equações Diferenciais Ordinárias**  
+- **6. Equações Diferenciais Ordinárias**   🔗[MNEDOs.pdf](MNEDOs.pdf)
   Resolva EDOs com métodos numéricos, aplicados a sistemas dinâmicos.  
   - 6.1 Introdução  
   - 6.2 Métodos da Série de Taylor  
