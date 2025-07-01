@@ -124,6 +124,8 @@ O curso está organizado em 6 módulos, detalhados abaixo:
   - 6.4 Métodos de Runge-Kutta  
   - 6.5 Métodos de Passo Múltiplo  
   🔗 Códigos: [edos.py](codigos/edos.py), [Rk4_predador_presa.ipynb](Rk4_predador_presa.ipynb)
+## Dinâmica da Esfera Quântica com Quadrinhos - Math-Dynamics
+Esfera 3D com 1156 quadrinhos em Spectral, rotação harmoniosa.  [Sphere Quanrica](esferaquanticadf.pdf) e [veja o vídeo](sphere_dynamics_quadrinhos.mp4). 
 
 ## 🚀 Como Usar
 - **Materiais:** Baixe os slides (PDFs) e o resumo em [notas/resumo_calculo_numerico.md](notas/resumo_calculo_numerico.md) para estudar offline.
