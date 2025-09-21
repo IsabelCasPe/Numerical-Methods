@@ -126,6 +126,11 @@ O curso está organizado em 6 módulos, detalhados abaixo:
   🔗 Códigos: [edos.py](codigos/edos.py), [Rk4_predador_presa.ipynb](Rk4_predador_presa.ipynb)
 ## Dinâmica da Esfera Quântica com Quadrinhos - Math-Dynamics
 Esfera 3D com 1156 quadrinhos em Spectral, rotação harmoniosa.  [Sphere Quanrica](esferaquanticadf.pdf) e [veja o vídeo](sphere_dynamics_quadrinhos.mp4). 
+---
+## Inspiration.
+> "Nos algoritmos do infinito, a precisão numérica organiza o caos  @NumericalMethods, onde a arte do cálculo revela a ordem do universo." 🌌
+>  Copyright © 2025 Prof. Ana Isabel C. 💙
+---
 
 ## 🚀 Como Usar
 - **Materiais:** Baixe os slides (PDFs) e o resumo em [notas/resumo_calculo_numerico.md](notas/resumo_calculo_numerico.md) para estudar offline.
@@ -134,3 +139,5 @@ Esfera 3D com 1156 quadrinhos em Spectral, rotação harmoniosa.  [Sphere Quanri
 - **Requisitos:** Instale as bibliotecas Python:
   ```bash
   pip install numpy matplotlib scipy
+
+
